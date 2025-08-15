@@ -1,7 +1,5 @@
 import React from 'react';
 import resume from '../assets/resume.pdf';
-import Header from './Header';
-import Footer from './Footer';
 
 const Resume = () => {
     return (

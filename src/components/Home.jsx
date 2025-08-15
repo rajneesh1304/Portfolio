@@ -22,11 +22,11 @@ export default function Home() {
                         sequence={[
                             "Rajneesh.",
                             1000,
-                            "a Coder.",
-                            2000,
-                            "a Web Developer.",
-                            2000,
                             "a Software Developer.",
+                            2000,
+                            "a Full Stack Developer.",
+                            2000,
+                            "a Coder.",
                             2000,
                         ]}
                         wrapper="span"

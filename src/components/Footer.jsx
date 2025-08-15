@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div className="flex gap-6 items-center">
           <a
-            href="https://github.com/BestCoder13"
+            href="https://github.com/rajneesh1304"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 hover:text-indigo-700 transition-transform"
@@ -31,7 +31,7 @@ const Footer = () => {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="https://leetcode.com/nitinkumar97941/"
+            href="https://leetcode.com/rajneesh1304/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:scale-110 transition-transform"

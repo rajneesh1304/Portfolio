@@ -5,38 +5,39 @@ export default function Projects() {
     {
       title: "Real-Time Chat App",
       desc: "A real-time chat application with message sync using React, Node.js, and MongoDB.",
-      tags: ["React", "TailwindCSS", "Node.js", "MongoDB"],
-      link: "https://github.com/BestCoder13/Chat-App"
+      tags: ["React", "TailwindCSS", "Node.js", "MongoDB", "SocketIO"],
+      link: "https://github.com/rajneesh1304/Chat-App"
+    },
+    ,
+    {
+      title: "TaskHub",
+      desc: "Task Hub is a centralized platform for organizing, tracking, and managing tasks efficiently in one place.",
+      tags: [ "React", "NodeJS", "MongoDB", "TypeScript", "Zustand"],
+      link: "https://github.com/rajneesh1304/taskhub"
+    },
+    {
+      title: "QuickBlog",
+      desc: "Developed a blog website, user can see the blogs, add comment, also comes with an admin panel so that admin can perform CRUD operation.",
+      tags: ["HTML", "CSS", "JavaScript", "React", "NodeJS", "MongoDB"],
+      link: "https://github.com/rajneesh1304/quickblog"
     },
     {
       title: "Notices Project",
       desc: "A web app to display and manage college notices using a MySQL backend.",
       tags: ["HTML", "CSS", "JavaScript", "Node.js", "MySQL"],
-      link: "https://github.com/BestCoder13/Notices-College-Website-"
+      link: "https://github.com/rajneesh1304/Notices-College-Website-"
     },
     {
       title: "Netflix UI Clone",
       desc: "A Netflix-inspired front-end with Firebase authentication and video previews.",
       tags: ["React", "TailwindCSS", "Firebase"],
-      link: "https://github.com/BestCoder13/Netflix-Clone"
+      link: "https://github.com/rajneesh1304/Netflix-Clone"
     },
     {
       title: "Intern Project",
       desc: "Developed a complete website for a company with a modern and responsive UI.",
       tags: ["React", "TailwindCSS", "HTML", "CSS", "JavaScript"],
-      link: "https://github.com/BestCoder13/Vectrium-Ventures-Project"
-    },
-    {
-      title: "Weather App",
-      desc: "A simple and clean weather app showing live data for any city.",
-      tags: ["HTML", "CSS", "JavaScript"],
-      link: "https://github.com/BestCoder13/Weather-Mini-Project"
-    },
-    {
-      title: "Tic Tac Toe Game",
-      desc: "Classic tic-tac-toe game with interactive UI and logic built from scratch.",
-      tags: ["HTML", "CSS", "JavaScript"],
-      link: "https://github.com/BestCoder13/Tic-Tac-Toe-Game"
+      link: "https://github.com/rajneesh1304/Vectrium-Ventures-Project"
     }
   ];
 
